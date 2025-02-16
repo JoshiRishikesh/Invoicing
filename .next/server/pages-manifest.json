@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/all-invoices": "pages/all-invoices.js",
+  "/invoice": "pages/invoice.js",
+  "/print-preview": "pages/print-preview.js",
+  "/api/getInvoices": "pages/api/getInvoices.js",
+  "/calendar": "pages/calendar.js",
+  "/delivery-status": "pages/delivery-status.js",
+  "/api/getTodaysInvoices": "pages/api/getTodaysInvoices.js",
+  "/api/getDeliveries": "pages/api/getDeliveries.js",
+  "/": "pages/index.js"
+}
