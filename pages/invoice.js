@@ -312,8 +312,8 @@ export default function Invoice() {
                     className="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-indigo-500"
                   >
                     <option>Cash</option>
-                    <option>Credit</option>
-                    <option>Debit</option>
+                    <option>Card</option>
+                    // <option>Debit</option>
                     <option>Bank Transfer</option>
                   </select>
                 </div>
